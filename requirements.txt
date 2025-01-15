@@ -1,0 +1,25 @@
+# Core Web Framework
+fastapi==0.109.0
+uvicorn==0.25.0
+
+# Cryptography
+pycryptodome==3.20.0
+
+# CORS and Additional Web Utilities
+python-multipart==0.0.9
+starlette==0.35.1
+
+# Testing
+pytest==8.0.0
+httpx==0.26.0
+
+# Development Tools
+autopep8==2.0.4
+flake8==7.0.0
+
+# Optional: Security and Performance Extras
+python-jose==3.3.0
+passlib==1.7.4
+
+# Optional: Additional Utilities
+typing-extensions==4.9.0
